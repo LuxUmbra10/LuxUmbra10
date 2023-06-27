@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LuxUmbra10
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning c++ and c# (in unity)
+- 💞️ I’m looking to collaborate on game
+- 📫 How to reach me luxumbra6@gmail.com
